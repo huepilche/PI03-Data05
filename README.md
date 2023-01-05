@@ -8,4 +8,4 @@ El objetivo es encontrar patrones y visiones que orienten los lineamientos estra
 ARCHIVOS: 
 En el menu principal se encuentra un archivo  ipynb que contiene el EDA, un archivo  pbix que contiene el reporte de visualizacion y analisis de datos, la licencia y el archivo README.  En la carpeta datasets se encuentran los archivos csv previamente trabajados .
 
-Las conclusiones y recmendaciones  se encuentran en el reporte presente en el repositorio.
+Las conclusiones y recmendaciones  se encuentran en el reporte presente en el repositorio. Se incluye un archivo PDF para visualizar el reporte.
